@@ -132,4 +132,4 @@ M1;EURUSD;02:00:00;PUT
 * *Fique por dentro dos nossos produtos e no [Facebook](https://www.facebook.com/feesnegocios/)!*
 
 * * *
-<p align="center"><b>Tenha Bons Trades!! :)</b></p>
+<b>Tenha Bons Trades!! :)</b>
