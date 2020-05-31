@@ -86,7 +86,7 @@ M1;EURUSD;02:00:00;PUT
     </tr>
     <tr>
       <td>martingale</td>
-      td>A quantidade de gales por operação</td>
+      <td>A quantidade de gales por operação</td>
     </tr>
     <tr>
       <td>martingale1</td>
