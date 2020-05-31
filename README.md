@@ -1,7 +1,6 @@
 <p align="center"><img src="https://github.com/francis-taylor/Timotty/blob/master/images.png" alt="Timotty"></p>
 <p align="center"><a href="https://t.me/SuporteKbot">Kbot</a></p>
 <p align="center"><strong>Versão 0.1.4</strong></p>
-<a href="https://www.facebook.com/feesnegocios/"><img src="facebook.jpg" width="40" title="Facebook"></a></br>
 
 ### <p align="center">Sistema de automatização de sinais KBOT</p>
 * * *
@@ -130,5 +129,7 @@ M1;EURUSD;02:00:00;PUT
 ## <p align="center">Suporte</p>
 <p align="center"> <b>OBS:</b> <i>Em caso de erros, falhas, bugs ou dúvidas, contate o <a href="https://t.me/SuporteKbot"> suporte Kbot telegram</a>.</i></p>
 
+* *Fique por dentro dos nossos produtos e no [Facebook](https://www.facebook.com/feesnegocios/)!*
+
 * * *
-**Tenha Bons Trades!! :)**
+<p align="center"><b>Tenha Bons Trades!! :)</b></p>
