@@ -99,10 +99,6 @@ M1;EURUSD;02:00:00;PUT
       <td>Valor de aposta do gale2.</td>
     </tr>
     <tr>
-      <td>sudo</td>
-      <td>Número único de identificação Telegram, para o bot obedecer somente a você.</td>
-    </tr>
-    <tr>
       <td>gale_pct</td>
       <td>O valor de multiplicação da aposta.</td>
     </tr>
@@ -110,7 +106,6 @@ M1;EURUSD;02:00:00;PUT
       <td>sudo</td>
       <td>Número único de identificação Telegram, para o bot obedecer somente a você.</td>
     </tr>
-    
    <tr>
       <td>sto_win</td>
       <td>O valor de ganhos que o bot deve parar ao atingir.</td>
