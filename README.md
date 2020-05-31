@@ -130,8 +130,8 @@ M1;EURUSD;02:00:00;PUT
 <p align="center"> <b>OBS:</b> <i>Em caso de erros, falhas, bugs ou dúvidas, contate o <a href="https://t.me/SuporteKbot"> suporte Kbot telegram</a>.</i></p>
 
 ## <p align='center'>Social</p>
-* <a href="https://www.facebook.com/feesnegocios/"><img src="facebook.jpg" width="40" title="Facebook"></a></br>
-* <a href="https://t.me/suportekbot"><img src="telegram.jpg" width="33" title="Facebook"></a>
+<a href="https://www.facebook.com/feesnegocios/"><img src="facebook.jpg" width="40" title="Facebook"></a></br>
+<a href="https://t.me/suportekbot"><img src="telegram.jpg" width="33" title="Facebook"></a>
 
 * * *
 **Tenha Bons Trades!! :)**
