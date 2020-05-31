@@ -9,7 +9,7 @@
 * O KBOT conta com um sofisticado sistema de operações binárias para operar na corretora IQ Option e de fácil configuração a través da plataforma de bots do Telegram.
 
 * * *
-## Instalar
+## <p align="center">Instalar</p>
 
 1. Baixe o instador python no [site oficial](https://www.python.org/downloads/), escolha a versão de acordo com o sistema e arquitetura do seu processador.
 2. Abra o arquivo e marque a opção `"Add to path"`
