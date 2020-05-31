@@ -104,7 +104,7 @@ M1;EURUSD;02:00:00;PUT
     </tr>
     <tr>
       <td>gale_pct</td>
-      <td>O valor de multiplicação da aposta. (Padrão: 2.2)</td>
+      <td>O valor de multiplicação da aposta.</td>
     </tr>
     <tr>
       <td>sudo</td>
