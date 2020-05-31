@@ -13,22 +13,23 @@
 
 1. Baixe o instador python no [site oficial](https://www.python.org/downloads/), escolha a versão de acordo com o sistema e arquitetura do seu processador.
 2. Abra o arquivo e marque a opção `"Add to path"`
-3. Clique em instalar e aguarde a instalação.
-4. Feche a pagina e abra a pasta do bot.
-5. Abra o [Bot Father](https://t.me/BotFather) no telegram.
-6. Clique em "começar"
-7. Digite `/newbot` e envie.
-8. Escolha um nome para o seu robô e envie.
-9. Escolha um username para o robô e envie. OBS:(O usernave deve terminar com "bot", por exemplo: MeuBot ou Meu_Bot, caso o username já exista, terá que escolher outro.)
-10. O bot ira te enviar uma mensagem, copie o **token** que ele irá enviar e coloque no arquivo `config.py`, no espaço **token="bot_api_key"**
-11. Preencha as configurações seguindo as instruções dentro do arquivo.
-12. Abra a pasta do Kbot e clique duas vezes em ``start``.
-13. Abra o [Bot Father](https://t.me/BotFather) novamente e clique no link que ele retorna junto a mensagem.
-14. Clique em começar e digite **/id** e envie.
-15. Copie o ID e coloque no item `sudo=[seu_id_aqui]`, no arquivo `config.py`.
-16. reinicie o robot.
-17. Abra o robô no telegram e digite **/start**.
-18. Clique em configurações.
+3. Extraia o arquivo kbot.zip no local desejado.
+4. Clique em instalar e aguarde a instalação.
+5. Feche a pagina e abra a pasta do bot.
+6. Abra o [Bot Father](https://t.me/BotFather) no telegram.
+7. Clique em "começar"
+8. Digite `/newbot` e envie.
+9. Escolha um nome para o seu robô e envie.
+10. Escolha um username para o robô e envie. OBS:(O usernave deve terminar com "bot", por exemplo: MeuBot ou Meu_Bot, caso o username já exista, terá que escolher outro.)
+11. O bot ira te enviar uma mensagem, copie o **token** que ele irá enviar e coloque no arquivo `config.py`, no espaço **token="bot_api_key"**
+12. Preencha as configurações seguindo as instruções dentro do arquivo.
+13. Abra a pasta do Kbot e clique duas vezes em ``start``.
+14. Abra o [Bot Father](https://t.me/BotFather) novamente e clique no link que ele retorna junto a mensagem.
+15. Clique em começar e digite **/id** e envie.
+16. Copie o ID e coloque no item `sudo=[seu_id_aqui]`, no arquivo `config.py`.
+17. reinicie o robot.
+18. Abra o robô no telegram e digite **/start**.
+19. Clique em configurações.
 
 * * *
 ## <p align="center">Adicionar sinais</p>
