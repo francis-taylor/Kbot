@@ -54,7 +54,7 @@ M1;EURUSD;02:00:00;PUT
 * * *
 ## Ajuda
 
- Itens do arquivo config.py
+ * Itens do arquivo config.py
  
 <table>
   <thead>
