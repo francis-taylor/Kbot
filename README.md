@@ -55,22 +55,78 @@ M1;EURUSD;02:00:00;PUT
 ## Ajuda
 
  Itens do arquivo config.py
-
-* **Key**        -> *Chave única de autenticação com o sistema Kbot.*
-* **Aposta**     -> *Valor em reais (R$) que o bot vai apostar nas operações.*
-* **Email**      -> *Seu email da IQ option.*
-* **Senha**      -> *Sua senha IQ option.*
-* **Conta**      -> *A conta em que deseja operar (REAL OU PRACTICE).*
-* **martingale** -> *A quantidade de gales por operação.*
-* **martingale1**-> *Valor de aposta do gale1.*
-* **martingale2**-> *Valor de aposta do gale2.*
-* **sudo**       -> *Número único de identificação Telegram, para o bot obedecer somente a você.*
-* **gale_pct**   -> *O valor de multiplicação da aposta. (Padrão: 2.2)*
-* **Stop_win**   -> *O valor de ganhos que o bot deve parar ao atingir.*
-* **max_loss**  -> *O valor perdas que o bot deve parar ao atingir.*
-* **user**       -> *Nome do usuario.*
-* **email_log**  -> *Email de contato.*
-* **token**      -> *Token Telegram Api Bot.*
+ 
+<table>
+  <thead>
+    <tr>
+      <td><strong>Objeto</strong></td>
+      <td><strong>Descrição</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>key</td>
+      <td>Chave única de autenticação com o sistema Kbot.</td>
+    </tr>
+    <tr>
+      <td>Aposta</td>
+      <td>Valor para apostar em operações.</td>
+    </tr>
+    <tr>
+      <td>email</td>
+      <td>E-mail IQ Option.</td>
+    </tr>
+    <tr>
+     <td>senha</td>
+     <td>Senha IQ Option.</td>
+   </tr>
+    <tr>
+      <td>conta</td>
+      <td>A conta em que deseja operar (REAL OU PRACTICE).</td>
+    </tr>
+    <tr>
+      <td>martingale</td>
+      td>A quantidade de gales por operação</td>
+    </tr>
+    <tr>
+      <td>martingale1</td>
+      <td>Valor de aposta do gale1.</td>
+    </tr>
+    <tr>
+      <td>martingale2</td>
+      <td>Valor de aposta do gale2.</td>
+    </tr>
+    <tr>
+      <td>sudo</td>
+      <td>Número único de identificação Telegram, para o bot obedecer somente a você.</td>
+    </tr>
+    <tr>
+      <td>gale_pct</td>
+      <td>O valor de multiplicação da aposta. (Padrão: 2.2)</td>
+    </tr>
+    <tr>
+      <td>sudo</td>
+      <td>Número único de identificação Telegram, para o bot obedecer somente a você.</td>
+    </tr>
+    
+   <tr>
+      <td>sto_win</td>
+      <td>O valor de ganhos que o bot deve parar ao atingir.</td>
+    </tr>
+    <tr>
+      <td>stop_loss</td>
+      <td>O valor de perdas que o bot deve parar ao atingir.</td>
+    </tr>
+    <tr>
+      <td>token</td>
+      <td>Api Telegram Bot Token.</td>
+    </tr>
+    <tr>
+      <td>email_log</td>
+      <td>Email de contato</td>
+    </tr>
+  </tbody>
+</table>
 
 * * *
 ## Suporte
