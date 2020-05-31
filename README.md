@@ -13,8 +13,8 @@
 
 1. Baixe o instador python no [site oficial](https://www.python.org/downloads/), escolha a versão de acordo com o sistema e arquitetura do seu processador.
 2. Abra o arquivo e marque a opção `"Add to path"`
-3. Extraia o arquivo kbot.zip no local desejado.
-4. Clique em instalar e aguarde a instalação.
+3. Clique em instalar e aguarde a instalação.
+4. Extraia o arquivo kbot.zip no local desejado.
 5. Feche a pagina e abra a pasta do bot.
 6. Abra o [Bot Father](https://t.me/BotFather) no telegram.
 7. Clique em "começar"
