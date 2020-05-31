@@ -6,7 +6,7 @@
 * * *
 * O KBOT conta com um sofisticado sistema de operações binárias para operar na corretora IQ Option e de fácil configuração pelo telegram.
 * * *
-## - Instalação
+## Instalar
 * * *
 01) Baixe o instador python no [site oficial](https://www.python.org/downloads/), escolha a versão de acordo com o sistema e arquitetura do seu processador.
 02) Abra o arquivo e marque a opção `"Add to path"`
@@ -28,7 +28,7 @@
 18) Clique em configurações.
 
 * * *
-## - Adicionando sinais
+## Adicionar sinais
 
 1) Abra o arquivo ``"sinais"`` na pasta do robô.
 
@@ -50,7 +50,7 @@ M1;EURUSD;02:00:00;PUT
 3) Salve o arquivo e feche a janela.
 
 * * *
-## Help-Me!
+## Ajuda
 
  Itens do arquivo config.py
 
@@ -71,6 +71,7 @@ M1;EURUSD;02:00:00;PUT
 * **token**      -> *Token Telegram Api Bot.*
 
 * * *
+## Suporte
 **OBS:** *Em caso de erros, falhas, bugs ou dúvidas, contate o [suporte Kbot telegram](https://t.me/SuporteKbot).*
 
 * * *
