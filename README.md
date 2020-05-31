@@ -2,7 +2,6 @@
 <p align="center"><a href="https://t.me/SuporteKbot">Kbot</a></p>
 <p align="center"><strong>Versão 0.1.4</strong></p>
 
-<img src="facebook.jpg" alt="https://www.facebook.com/feesnegocios/">
 ### <p align="center">Sistema de automatização de sinais KBOT</p>
 * * *
 ### <p align="center">⚠️OBS: Não nos responsabilizamos por perdas, opere por sua conta e risco!</p>
@@ -129,6 +128,8 @@ M1;EURUSD;02:00:00;PUT
 * * *
 ## <p align="center">Suporte</p>
 <p align="center"> <b>OBS:</b> <i>Em caso de erros, falhas, bugs ou dúvidas, contate o <a href="https://t.me/SuporteKbot"> suporte Kbot telegram</a>.</i></p>
+
+<a href="https://www.facebook.com/feesnegocios/"><img src="facebook.jpg" width="20" title="Facebook"></a>
 
 * * *
 **Tenha Bons Trades!! :)**
