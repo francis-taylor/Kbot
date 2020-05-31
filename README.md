@@ -2,7 +2,7 @@
 <p align="center"><a href="https://t.me/SuporteKbot">Kbot</a></p>
 <p align="center"><strong>Versão 0.1.4</strong></p>
 
-### Sistema de automatização de sinais KBOT
+### <p align="center">Sistema de automatização de sinais KBOT</p>
 * * *
 ### ⚠️OBS: Não nos responsabilizamos por perdas, opere por sua conta e risco!
 * * *
