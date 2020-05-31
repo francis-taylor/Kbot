@@ -1,6 +1,7 @@
 <p align="center"><img src="https://github.com/francis-taylor/Timotty/blob/master/images.png" alt="Timotty"></p>
 <p align="center"><a href="https://t.me/SuporteKbot">Kbot</a></p>
 <p align="center"><strong>Versão 0.1.4</strong></p>
+
 ### Sistema de automatização de sinais KBOT
 * * *
 ### OBS: Não nos responsabilizamos por perdas, opere por sua conta e risco!
