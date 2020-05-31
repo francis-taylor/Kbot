@@ -4,7 +4,7 @@
 
 ### <p align="center">Sistema de automatização de sinais KBOT</p>
 * * *
-### ⚠️OBS: Não nos responsabilizamos por perdas, opere por sua conta e risco!
+### <p align="center">⚠️OBS: Não nos responsabilizamos por perdas, opere por sua conta e risco!</p>
 * * *
 * O KBOT conta com um sofisticado sistema de operações binárias para operar na corretora IQ Option e de fácil configuração pelo telegram.
 * * *
