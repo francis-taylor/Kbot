@@ -131,7 +131,7 @@ M1;EURUSD;02:00:00;PUT
 
 * * *
 ## <p align="center">Suporte</p>
-**OBS:** *Em caso de erros, falhas, bugs ou dúvidas, contate o [suporte Kbot telegram](https://t.me/SuporteKbot).*
+<p align="center"> <b>OBS:</b> <i>Em caso de erros, falhas, bugs ou dúvidas, contate o <a href="https://t.me/SuporteKbot"> suporte Kbot telegram</a>.</i></p>
 
 * * *
 **Tenha Bons Trades!! :)**
