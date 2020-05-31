@@ -31,9 +31,9 @@
 18. Clique em configurações.
 
 * * *
-## Adicionar sinais
+## <p align="center">Adicionar sinais</p>
 
-1) Abra o arquivo ``"sinais"`` na pasta do robô.
+1. Abra o arquivo ``"sinais"`` na pasta do robô.
 
 * Os sinais seguem um padrão:
 
@@ -53,7 +53,7 @@ M1;EURUSD;02:00:00;PUT
 3) Salve o arquivo e feche a janela.
 
 * * *
-## Ajuda
+## <p align="center">Ajuda</p>
 
  * Itens do arquivo config.py
  
@@ -130,7 +130,7 @@ M1;EURUSD;02:00:00;PUT
 </table>
 
 * * *
-## Suporte
+## <p align="center">Suporte</p>
 **OBS:** *Em caso de erros, falhas, bugs ou dúvidas, contate o [suporte Kbot telegram](https://t.me/SuporteKbot).*
 
 * * *
