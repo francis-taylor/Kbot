@@ -21,6 +21,7 @@
 6. Abra o [Bot Father](https://t.me/BotFather) no telegram.
 7. Clique em "começar"
 8. Digite `/newbot` e envie.
+![alt text](newbot.JPG)
 9. Escolha um nome para o seu robô e envie.
 10. Escolha um username para o robô e envie. OBS:(O username deve terminar com "bot", por exemplo: MeuBot ou Meu_Bot, caso o username já exista, terá que escolher outro.)
 11. O bot ira te enviar uma mensagem, copie o **token** que ele irá enviar e coloque no arquivo `config.py`, no espaço **token="bot_api_key"**
