@@ -30,7 +30,7 @@
 12. Preencha as configurações seguindo as instruções dentro do arquivo.
 13. Abra a pasta do robô e clique duas vezes em ``start``.
 14. Abra o [Bot Father](https://t.me/BotFather) novamente e clique no link que ele retorna junto a mensagem.</br>
-![alt text](token.JPG)
+![alt text](username.JPG)
 15. Clique em começar e digite **/id** e envie.
 16. Copie o ID e coloque no item `sudo=[seu_id_aqui]`, no arquivo `config.py`.
 17. Feche o prompt de comando e clique novamente em start.
