@@ -20,7 +20,7 @@
 5. Feche a pagina e abra a pasta do robô.
 6. Abra o [Bot Father](https://t.me/BotFather) no telegram.
 7. Clique em "começar"
-8. Digite `/newbot` e envie.
+8. Digite `/newbot` e envie.</br>
 ![alt text](newbot.JPG)
 9. Escolha um nome para o seu robô e envie.
 10. Escolha um username para o robô e envie. OBS:(O username deve terminar com "bot", por exemplo: MeuBot ou Meu_Bot, caso o username já exista, terá que escolher outro.)
