@@ -12,7 +12,7 @@
 ## <p align="center">Instalar</p>
 
 1. Baixe o instador python no [site oficial](https://www.python.org/downloads/). (**abra o site e clique no botão amarelo**) ![alt text](python.JPG)
-2. Abra o arquivo e marque a opção `"[x] Add to path"`
+2. Abra o arquivo e marque a opção `"[x] Add to path"` ![alt text](path.JPG)
 3. Clique em instalar e aguarde a instalação.
 4. Extraia o arquivo `kbot.zip` no local desejado.
 5. Feche a pagina e abra a pasta do robô.
