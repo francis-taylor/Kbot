@@ -34,7 +34,8 @@
 15. Clique em começar e digite **/id** e envie.
 16. Copie o ID e coloque no item `sudo=[seu_id_aqui]`, no arquivo `config.py`.
 17. Feche o prompt de comando e clique novamente em start.
-18. Abra o robô no telegram e digite **/start**.
+18. Abra o robô no telegram e digite **/start**.</br>
+![alt text](id.gif)
 19. Clique em configurações.
 
 * * *
