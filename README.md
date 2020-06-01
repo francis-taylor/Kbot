@@ -25,11 +25,12 @@
 9. Escolha um nome para o seu robô e envie.
 10. Escolha um username para o robô e envie. OBS:(O username deve terminar com "bot", por exemplo: MeuBot ou Meu_Bot, caso o username já exista, terá que escolher outro.)</br>
 ![alt text](create.JPG)
-11. O bot ira te enviar uma mensagem, copie o **token** que ele irá enviar e coloque no arquivo `config.py`, no espaço **token="bot_api_key"**
+11. O bot ira te enviar uma mensagem, copie o **token** que ele irá enviar e coloque no arquivo `config.py`, no espaço **token="bot_api_key"**</br>
 ![alt text](token.JPG)
 12. Preencha as configurações seguindo as instruções dentro do arquivo.
 13. Abra a pasta do robô e clique duas vezes em ``start``.
-14. Abra o [Bot Father](https://t.me/BotFather) novamente e clique no link que ele retorna junto a mensagem.
+14. Abra o [Bot Father](https://t.me/BotFather) novamente e clique no link que ele retorna junto a mensagem.</br>
+![alt text](token.JPG)
 15. Clique em começar e digite **/id** e envie.
 16. Copie o ID e coloque no item `sudo=[seu_id_aqui]`, no arquivo `config.py`.
 17. Feche o prompt de comando e clique novamente em start.
