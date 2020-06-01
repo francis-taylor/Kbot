@@ -24,6 +24,7 @@
 ![alt text](newbot.JPG)
 9. Escolha um nome para o seu robô e envie.
 10. Escolha um username para o robô e envie. OBS:(O username deve terminar com "bot", por exemplo: MeuBot ou Meu_Bot, caso o username já exista, terá que escolher outro.)
+![alt text](create.JPG)
 11. O bot ira te enviar uma mensagem, copie o **token** que ele irá enviar e coloque no arquivo `config.py`, no espaço **token="bot_api_key"**
 12. Preencha as configurações seguindo as instruções dentro do arquivo.
 13. Abra a pasta do robô e clique duas vezes em ``start``.
