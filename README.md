@@ -11,32 +11,27 @@
 * * *
 <h2><p align="center">Instalar</p></h2>
 
-1. Baixe o instador python no [site oficial](https://www.python.org/downloads/). (**abra o site e clique no botão amarelo**)
-![alt text](python.JPG)</br>
-2. Abra o arquivo e marque a opção `"[x] Add to path"`</br>
-![alt text](path.JPG)
-3. Clique em instalar e aguarde a instalação.
-4. Extraia o arquivo `kbot.zip` no local desejado.
-5. Feche a pagina e abra a pasta do robô.
-6. Abra o [Bot Father](https://t.me/BotFather) no telegram.
-7. Clique em "começar"
-8. Digite `/newbot` e envie.</br>
+1. Extraia o arquivo `kbot.zip` no local desejado.
+2. Feche a pagina e abra a pasta do robô.
+3. Abra o [Bot Father](https://t.me/BotFather) no telegram.
+4. Clique em "começar"
+5. Digite `/newbot` e envie.</br>
 ![alt text](newbot.JPG)
-9. Escolha um nome para o seu robô e envie.
-10. Escolha um username para o robô e envie. OBS:(O username deve terminar com "bot", por exemplo: MeuBot ou Meu_Bot, caso o username já exista, terá que escolher outro.)</br>
+6. Escolha um nome para o seu robô e envie.
+7. Escolha um username para o robô e envie. OBS:(O username deve terminar com "bot", por exemplo: MeuBot ou Meu_Bot, caso o username já exista, terá que escolher outro.)</br>
 ![alt text](create.JPG)
-11. O bot ira te enviar uma mensagem, copie o **token** que ele irá enviar e coloque no arquivo `config.py`, no espaço **token="bot_api_key"**</br>
+8. O bot ira te enviar uma mensagem, copie o **token** que ele irá enviar e coloque no arquivo `config.py`, no espaço **token="bot_api_key"**</br>
 ![alt text](token.gif)
-12. Preencha as configurações seguindo as instruções dentro do arquivo.
-13. Abra a pasta do robô e clique duas vezes em ``start``.
-14. Abra o [Bot Father](https://t.me/BotFather) novamente e clique no link que ele retorna junto a mensagem.</br>
+9. Preencha as configurações seguindo as instruções dentro do arquivo.
+10. Abra a pasta do robô e clique duas vezes em ``start``.
+11. Abra o [Bot Father](https://t.me/BotFather) novamente e clique no link que ele retorna junto a mensagem.</br>
 ![alt text](username.JPG)</br>
-15. Clique em começar e digite **/id** e envie.
-16. Copie o ID e coloque no item `sudo=[seu_id_aqui]`, no arquivo `config.py`.
-17. Feche o prompt de comando e clique novamente em start.
-18. Abra o robô no telegram e digite **/start**.</br>
+12. Clique em começar e digite **/id** e envie.
+13. Copie o ID e coloque no item `sudo=[seu_id_aqui]`, no arquivo `config.py`.
+14. Feche o prompt de comando e clique novamente em start.
+15. Abra o robô no telegram e digite **/start**.</br>
 ![alt text](id.gif)
-19. Clique em configurações.
+16. Clique em configurações.
 
 * * *
 ## <p align="center">Adicionar sinais</p>
